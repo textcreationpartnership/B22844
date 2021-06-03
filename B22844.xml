@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The famous and notable sayings of an eminent holder-forth near Covent-Garden. Published for the benefit of his friends in the counties of Wilts, Oxford, Somerset, Southampton, Gloucester, Berks, and Middlesex. Licensed according to order.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22844</idno><idno type="EEBO-CITATION">99888482</idno>
+  <idno type="VID">202169</idno>
+  <idno type="EEBO-PROQUEST">2240888602</idno>
+  
+            <idno type="STC">Wing F357</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.19.[57]</idno>
+            <idno type="STC">ESTC R230437</idno>
+            <idno type="PROQUEST">ocm99888482</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888482e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22844)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 202169)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; D2:1[61])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The famous and notable sayings of an eminent holder-forth near Covent-Garden. Published for the benefit of his friends in the counties of Wilts, Oxford, Somerset, Southampton, Gloucester, Berks, and Middlesex. Licensed according to order.</title>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Lightfoot near Woodstreet,</publisher>
+                  <pubPlace>London. :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Quotations --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:202169:1"/>
+            <p> THE Famous and Notable SAYINGS Of an Eminent HOLDER-FORTH NEAR COVENT-GARDEN.</p>
+            <p>Published for the Benefit of his Friends in the Counties of <hi>Wilts, Oxford, Somerset, Southampton, Gloucester, Berks,</hi> and <hi>Middlesex.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Licensed according to Order.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON.</hi>
+            </p>
+            <p>Printed for <hi>T. Lightfoot</hi> near <hi>Woodstreet,</hi> 1691.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:202169:2"/>
+            <head>Choice Sayings, and Exhorta<g ref="char:EOLhyphen"/>tions.</head>
+            <p n="1">1. MY Beloved, it is my wish and hearty desire, that my Words might make your hard Hearts plyable to the Hammer of Reproof, that even so it might beat them into Leaf-Gold, to adorn the Leaves and Covers of my Volums, and other good and useful books; and that every syllable I utter, may find a Tabernacle in your Brains, and dwell there in Crowds and Clusters, like the Grapes of <hi>Canaan.</hi>
+            </p>
+            <p n="2">2. Come, come Women, away with your Fig-leaves, your Flames, and your slender Excuses; and when your Hus<g ref="char:EOLhyphen"/>bands ask you any Qucstions, hide no<g ref="char:EOLhyphen"/>thing from them; nay, you had even bet<g ref="char:EOLhyphen"/>ter tell the Inquisitive Fool, if he will know his own disgrace, he is a Cuckold, if truly he is so, then tell a Lie, or an <hi>Aesop</hi>'s Fable for the matter.</p>
+            <p n="3">3. Be watchful in your Callings; let the Men be vigilant to scrape together what they can, and their Wives be sure to be good Houswifes, that Friends may have something by the bye, and cleanly Diet, when they make a private visit.</p>
+            <p n="4">
+               <pb n="2" facs="tcp:202169:3"/> 4. As for Pride, it is the first begotten of <hi>Lucifer,</hi> and has a great resemblance of the Whore of <hi>Babylon;</hi> therefore down with it, I say, down with your <hi>May-pole Commodes,</hi> that Turkish Heathen Fashion, Aped from <hi>Lewis</hi> XIV's Miss, and rather cut them into snips to make Boys Kites-Tails, rather than stalk along the Streets like Monuments.</p>
+            <p n="5">5. My Beloved be sure to beg Golden Snuffers, and refuse those that are Prince's Mettal, see they nip well, and be excellent<g ref="char:EOLhyphen"/>ly made, that you may snuff the Candles of your understandings, lest they twinkle as in the Socket, or being blown out by a puff of your Ignorance, you become so many Dark-Lanthorns.</p>
+            <p n="6">6. I say unto ye, be Men that your Neighbours may give you large commen<g ref="char:EOLhyphen"/>dations, and your works be made visible, for your Wives, and your own credit and advantage.</p>
+            <p n="7">7. Call Earth your Purgatory, and what you get here by over-reaching in your Shops, or at your ordinary Callings, lay it not up to rust in your Chests, like an old Back-sword that becomes useless for want of drawing, but let it be bestowed, as you get it, in works of Charity upon
+<pb n="3" facs="tcp:202169:4"/> us that laboor for your Instruction, and then it will prove like Honey sucked out of Nettles and Thistles, sweetning your conceits, and making you jump from your Purgatory to paradice at a leap.</p>
+            <p n="8">8. Be sure you highly prize Sun-shine and Thunder; that is, plain piercing and rousing Holdings-forth; for what can benefit you that doth not inform you; dark and dull Teachers are fearful Judg<g ref="char:EOLhyphen"/>ments to ignorant block-head Hearers.</p>
+            <p n="9">9. Be not like silly Children, that know not their own Fathers, that is who you ought to love best; but lay aside your pride and pamperings, to remember your contribution, be sure to be liberal in that kind, though you have a Beaver Hat, a Wigg, a Top-knot, a Commode, or even a Gold Watch the less.</p>
+            <p n="10">10. Get up in the Morning sooner for shame; this I speak to the Women that made the last day so thin appearance, for some of you, are it seems, so tender for<g ref="char:EOLhyphen"/>sooth that you cannot rise in cold Wea<g ref="char:EOLhyphen"/>ther to dress you time enough; but were I by your Bed-sides I'd rouse you with a Witness.</p>
+            <p n="11">11. Beware of the Mill, and the circle of the Mill of worldly business, and of the
+<pb n="4" facs="tcp:202169:5"/> circle of sensual pleasure; they be traps that take most, and are the Death of all they take, the Mill doth store Hell with you poor Tennants, and the Circle store it with you rich Landlords.</p>
+            <p n="12">12. You think, I'll warrant you, all to be saved by hearing of me; no, no, no such matter i'll assure you; for unless you do as well as hear, you'll come short on't; and then at the last day, one will say, I was a hearerof such a one, I was one of Mr. <hi>B</hi>'s Congregation; why this is true, and if I should be asked the Question, I can't de<g ref="char:EOLhyphen"/>ny it, I must not tell a lye for the mat<g ref="char:EOLhyphen"/>ter in such a place; and then what a fine credit will it be for me to have Taught, and Taught, and yet you never the bet<g ref="char:EOLhyphen"/>ter, or the wiser for all my Instructions and Reproofs; then when you see me about to enter, one will catch hold of my Cloak, and another will catch hold of my Cloak, thinking I shall pull you in af<g ref="char:EOLhyphen"/>ter me, but indeed I shan't be so Civil, I tell you that; no, no, no such matter, I would not have you rely upon this, for in good earnest you'll be mistaken, and that very grosly too; for I'll e'en show you a trick for it, and what do you think that will be? why truly when you think
+<pb n="5" facs="tcp:202169:6"/> you have got fast hold, I'll slip the But<g ref="char:EOLhyphen"/>ton of my Cloak, and let you all drop with it; and whether do you think you will be dropping then? why even to the dark bottomless Pit, Cloak and all toge<g ref="char:EOLhyphen"/>ther, and then consider what a sad condi<g ref="char:EOLhyphen"/>tion you'll be in. Therefore let me again advise you, to add to your hearing, works of Charity, you know in what way I mean, and who expects it from you.</p>
+            <p n="13">13. We find one highly Extolled for Leaving all to become a Preacher, and pray what did he leave? why truly we read of nothing but a broken Net and a little Boat, it may be some five or six pound value; but here am I, who have left Fifty pound a Year to come amongst you, to edifie you by my Teaching; and what does all this come to? why truly al<g ref="char:EOLhyphen"/>most to nothing at all, especially to any purpose, for I don't know that I have re<g ref="char:EOLhyphen"/>ceived above six pound for all the pains I have taken in sweating and straining my Lungs: I have thrashed and thrashed to little purpose, I say, and can make but little Wheat fly out of the stubborn Husk, it is a great sign of a bad Harvest of good Works: You, I say, are so dull and drou<g ref="char:EOLhyphen"/>sie in your performances, or rather too
+<pb n="6" facs="tcp:202169:7"/> covetous, you would, I believe, have all for nothing by your good wills, you come crouding in shoals from one end of the Town to the other, and stand gaping with your Mouths at half-cock, to be edified by those things I deliver to you out of my pains and studies, but when I come towards a conclusion, and begin to touch your <hi>Mammon,</hi> O then 'tis you begin to shrug and draw in your Horns, one bustles to get out, and another crouds to be rubbing off, treading upon the Toes of his Neighbour for haste, and perhaps tumbling over an Old Woman at her Devotion, or breaking his shins against the end of a Form.</p>
+            <p n="14">14. There on the other hand a mini<g ref="char:EOLhyphen"/>kin Dame who has sate all the while to shew her three story Flaldal, tricked up with Ribbonds, like a Mare for Sale in a Market or Fair, puts on her Hood for<g ref="char:EOLhyphen"/>sooth, that might have been as well kept on before, and now pulls it over her face, stealing out without leaving the value of a Mornings Draught behind her in the Bason.</p>
+            <p n="15">15. Whrt is it you come for my friends? 'tis for some purpose or no purpose, if it be to no purpose, to what end do you
+<pb n="7" facs="tcp:202169:8"/> come? Therefore I again admonish you to consider to what purpose you come, and if you come at all, let it be to some purpose; if you leave nothing behind you, you do not do half so much good as a parcel of silly Sheep upon a Common, for though they nibble the Grass, yet they let fall that from their Posteriors that dungs the Ground and makes the Grass grow again.</p>
+            <p n="16">16. Now, it may be, some of you may say, why Mr. B—we are not desirous to be behind hand with Sheep, if such a small courtesie as that will do you any kind<g ref="char:EOLhyphen"/>ness, that's freely at your service; but though we do receive a mouthful or two of your Pastoral refreshment, yet the price of a few words can surely come to no great matter, they may be worth a T—rd or two, or so, but for Mony we know better what to do with than to give it away for Bottle Air; No, no, we had rather spend it in Bottle Ale, there's some substance in that; thus methinks, sometimes, I hear some of you say, and fancy I see you fingering your Pettycoats and Breeches to leave me what the Cat left in the Malt-heap.</p>
+            <p n="17">17. But this won't do, it won't do I
+<pb n="8" facs="tcp:202169:9"/> tell you, there will be no trusting to the hold of my Cloak for such as use me thus. These must go they know not whether, unless they mend their manners, and grow more charitable: You little think how I have sighed and groaned, and groaned and sighed, and all I think to little purpose; so that if there be any hopes left to work upon you, it is that these Sayings and Friendly Exhortations will make an Im<g ref="char:EOLhyphen"/>pression in your Minds, and be ever in your remembrances: If that expectation fail me, then I shall despair of working my ends, unless I take the method of the Coun<g ref="char:EOLhyphen"/>try Curat, which, my Beloven, was this,</p>
+            <p>Once upon a time it happened, as the story goes, that the Curate finding his Congregation dull of Apprehension, took an occasion after Sermon to tell them there would be a match of Cudgels play<g ref="char:EOLhyphen"/>ed. This pleased them mightily, and to it they went in the Church-yard, so that the Curate, who was better skilled, and withal of able Body, broke a great many of their Heads. But this gave offence, and the Curat was sent for, and repro<g ref="char:EOLhyphen"/>ved for such his undertaking; when in his Defence he replied, Truly it was a ne<g ref="char:EOLhyphen"/>cessity put him upon it, for his Parishio<g ref="char:EOLhyphen"/>ners
+<pb n="9" facs="tcp:202169:10"/> good; for being placed amongst a dull sort of People, they for the most part forgot what he delivered to them before they got out of the Church-yard: And therefore he took this method to beat it into their Heads, that they might carry it home with them and edifie.</p>
+            <p>My Friends, there are four sorts of run<g ref="char:EOLhyphen"/>nings. There is a running forward in the ways of Virtue, and that I commend to you; there is also a running away from Sin and Vice, and that's well enough too: But then there is a running backward from all good, and I'll assure you that is very bad: But the last running is a complicated Running, and that is a run<g ref="char:EOLhyphen"/>ning in Debt, and that commonly runs a Man into Prison, and then though he would run to the Devil, yet there he must stay. My beloved, I charge you be<g ref="char:EOLhyphen"/>ware of this Running.</p>
+            <p>My Beloved, I have told you of four sorts of Runnings, I must now tell you of four sorts of Stayings, also first there is staying away, that is from Church; and that's a bad staying. Secondly, there is a stayinst at a Whore-House, and that's worse (and let me tell you by the way, I wish there be none of you guilty of
+<pb n="10" facs="tcp:202169:11"/> this staying)▪ Thirdly, there is staying in an Ale-House or a Tavern, and that I am afraid many of you do from Morning till Night: And then Fourthly and lastly there is staying at home, but that's only when you have no Mony to spend abroad, and this is even as bad as the other.</p>
+            <p>My Beloved, as there are four sorts of runnings, and four sorts of stayings, (which I could easily have made half a dozen, but that I love brevity; so my Friends, let me warn you against four sorts of Sins. First, the Sin of Drunkenness, and that's a beastly Sin▪ for you know it often works both upwards and downwards, and leaves you in a beastly pickle; but I spare your Ears, because I doubt not you know it by experience, as well as I. Secondly, There's the Sin of Swearing, which is an unprofitable Sin; and therefore, I think, you don't use it much. And, thirdly, there's the Sin of Lying; and of this I'm affraid you all come in for a snack, But the fourth and last Sin, is the sin of Whoring, and this indeed is a tick<g ref="char:EOLhyphen"/>ling sin; and I heartily wish we had not all of us been too often tickled with this Sin. But my Friends, though it has been thus, and though we have been all guilty, very guilty herein, yet let none despair, for dispair is a very desperate thing; and therefore let no one stand lying in the Gulph of Despair, but fail a rising by a vigorous Repentance.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
